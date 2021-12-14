@@ -23,7 +23,7 @@
 </details>
 <br>
 
->## My Blog
+## My Blog
 <a href="https://www.notion.so/INTRODUCTION-d21fcecf9fb64ec8a0aaa4dd7e1b70b1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
 <a href="https://seo-a-nam.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flag-square&logo=github&logoColor=white"/></a>
 <a href="https://nsa901.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-181717?style=flag-square&logo=&logoColor=white"/></a>
@@ -38,7 +38,7 @@
 </details>
 <br> -->
 
->## Find me at  
+## Find me at  
 <a href="https://profile.intra.42.fr/users/senam" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
 <a href="https://www.instagram.com/namseoa9/" target="_blank"><img src="https://img.shields.io/badge/namseoa9-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/42.4.senam@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>

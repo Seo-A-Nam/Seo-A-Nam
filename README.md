@@ -27,6 +27,7 @@
 <a href="https://www.notion.so/INTRODUCTION-d21fcecf9fb64ec8a0aaa4dd7e1b70b1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
 <a href="https://seo-a-nam.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flag-square&logo=github&logoColor=white"/></a>
 <a href="https://nsa901.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-181717?style=flag-square&logo=&logoColor=white"/></a>
+<!--
 <details>
 <summary>When i use each blog</summary>
 <div markdown="1">
@@ -35,7 +36,7 @@
 * I just made my 'Github Blog'. I will post my posts about subjects in both korean/english version.
 </div>
 </details>
-<br>
+<br> -->
 
 >## Find me at  
 <a href="https://profile.intra.42.fr/users/senam" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>

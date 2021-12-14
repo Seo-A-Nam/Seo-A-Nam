@@ -12,6 +12,7 @@
 * I am a Second year Software Engineering Student, at Korea Aerospace University (KAU).
 * I am currently working on 42seoul subjects (South Korea branch of 42 ecole)
 
+<!--
 ## About me  
 <details>
 <summary>My goal, interests</summary>
@@ -21,7 +22,7 @@
 * I'm highly interested in Language exchange. So just hit me up to my insta or anywhere of my contact. You are welcomed as far as you're interested in progrmming or korea. :)<br>
 </div>
 </details>
-<br>
+<br> -->
 
 ## My Blog
 <a href="https://www.notion.so/INTRODUCTION-d21fcecf9fb64ec8a0aaa4dd7e1b70b1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>

@@ -2,7 +2,15 @@
 
 <!--
 **Seo-A-Nam/Seo-A-Nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me :
+* I am a Second year Software Engineering Student, at Korea Aerospace University (KAU).
+* I am currently working on 42 seoul (South Korea branch of 42 ecole)
 
+## skills
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>42</title><path d="M24 12.42l-4.428 4.415H24zm-4.428-4.417l-4.414 4.418v4.414h4.414V12.42L24 8.003V3.575h-4.428zm-4.414 0l4.414-4.428h-4.414zM0 15.996h8.842v4.43h4.412V12.42H4.428l8.826-8.846H8.842L0 12.421z"/></svg><a href="https://profile.intra.42.fr/users/senam" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-#000000?style=for-the-badge&logo=로고&logoColor=로고색상"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

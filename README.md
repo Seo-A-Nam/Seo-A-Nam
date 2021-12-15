@@ -45,7 +45,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/nsa901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br></br>
 
-![Seo-A-Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-A-Nam&show_icons=true&theme=vue)
+<!--![Seo-A-Nam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-A-Nam&show_icons=true&theme=vue)-->
 
 
 <!--<a href="" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/da8fa8b57a219475a22d5eb56c8780ec01a6a596/icons/42.svg/style=flat-square"/></a>

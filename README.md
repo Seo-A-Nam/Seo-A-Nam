@@ -9,7 +9,7 @@
 <a target=""><img src="https://img.shields.io/badge/VMBox-white?style=flat-square&logo=virtualbox&logoColor=black"/></a>
 <a target=""><img src="https://img.shields.io/badge/debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>
 ## 🏆 My Activity
-* I am a Second year Software Engineering Student, at Korea Aerospace University (KAU).
+* I am a third year Software-Engineering Student, at Korea Aerospace University (KAU).
 * I am currently working on 42seoul subjects (South Korea branch of 42 ecole)
 * I am currently working as an undergraudate student researcher in POSTECH MCNL Lab.
 

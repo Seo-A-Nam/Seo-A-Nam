@@ -5,7 +5,7 @@
 <a target=""><img src="https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a target=""><img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=007396"/></a>
 <a target=""><img src="https://img.shields.io/badge/Python-FFE873?style=flat-square&logo=Python&logoColor=306998"/></a>
-<a target=""><img src="https://img.shields.io/badge/golang-white?style=flat-square&logo=go&logoColor=blue"/></a>
+<a target=""><img src="https://img.shields.io/badge/Go-white?style=flat-square&logo=go&logoColor=blue"/></a>
 <a target=""><img src="https://img.shields.io/badge/Html-white?style=flat-square&logo=html5&logoColor=f06529"/></a>
 <a target=""><img src="https://img.shields.io/badge/VMBox-white?style=flat-square&logo=virtualbox&logoColor=black"/></a>
 <a target=""><img src="https://img.shields.io/badge/debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>

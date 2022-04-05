@@ -25,5 +25,3 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/nsa901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br></br>
 
-![Seo-A-Nam's 42 stats](https://badge42.herokuapp.com/api/stats/senam)](https://github.com/senam/badge42)
-

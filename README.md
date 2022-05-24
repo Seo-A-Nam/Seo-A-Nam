@@ -12,7 +12,7 @@
 ## 🏆 My Activity
 * I am a third year Software-Engineering Student, at Korea Aerospace University (KAU).
 * I am currently working as an undergraudate student researcher in POSTECH MCNL Lab.
-* I worked as a cadet of 42seoul for a year. [April.2022 ~ April.2023]
+* I worked as a cadet of 42seoul for a year. [April.2021 ~ April.2022]
   * 42Seoul : South Korean branch of 42 ecole
 
 ### 📔 My Blog

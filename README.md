@@ -12,8 +12,8 @@
 ## 🏆 My Activity
 * I am a third year Software-Engineering Student, at Korea Aerospace University (KAU).
 * I am currently working as an undergraudate student researcher in POSTECH MCNL Lab.
-* I worked on 42seoul subjects for 1 year as a cadet. [April.2022 ~ April.2023]
-  * (42Seoul : South Korea branch of 42 ecole)
+* I worked as a cadet of 42seoul for a year. [April.2022 ~ April.2023]
+  * 42Seoul : South Korean branch of 42 ecole
 
 ### 📔 My Blog
 <a href="https://www.notion.so/INTRODUCTION-d21fcecf9fb64ec8a0aaa4dd7e1b70b1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>

@@ -15,8 +15,8 @@
 <a target=""><img src="https://img.shields.io/badge/oracle21c-white?style=flat-square&logo=oracle&logoColor=f80000"/></a>
 
 ## 🏆 My Activity
-* I am a third year Software-Engineering Student, at Korea Aerospace University (KAU).
-* See more detailed information about me on the link below ⬇️
+* I am a third year Software-Engineering Student, at Korea Aerospace University (KAU). 🏫
+* See more detailed information about me on the link below 👇
 	* <b>Linkedin page (english)</b>: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US)](https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US)
 	* <b>Linkedin page (korean)</b> : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/)](https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/)
 

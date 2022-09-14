@@ -20,11 +20,13 @@
 ## 👍 I am interested in...
 * Blockchain
 * Cryptocurrency
+* Open-source project contribution
 * Database
 * Automation
-* System Optimization
+* System optimization
 * Network
 * Web development
+
 ----
 
 ## 🏆 My Activity

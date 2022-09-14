@@ -21,7 +21,8 @@
 * Blockchain
 * Cryptocurrency
 * Database
-* Test-Automation
+* Automation
+* System Optimization
 * Network
 * Web development
 ----

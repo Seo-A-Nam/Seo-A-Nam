@@ -28,7 +28,6 @@
 
 ### 📞 Find me at  
 <a href="https://profile.intra.42.fr/users/senam" target="_blank"><img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
-<a href="https://www.instagram.com/namseoa9/" target="_blank"><img src="https://img.shields.io/badge/namseoa9-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/42.4.senam@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/nsa901@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <br></br>

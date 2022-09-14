@@ -11,9 +11,7 @@
 <a target=""><img src="https://img.shields.io/badge/debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>
 ## 🏆 My Activity
 * I am a third year Software-Engineering Student, at Korea Aerospace University (KAU).
-* I am currently working as an undergraudate student researcher in POSTECH MCNL Lab.
-* I worked as a cadet of 42seoul for a year. [April.2021 ~ April.2022]
-  * 42Seoul : South Korean branch of 42 ecole
+* https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US
 
 ### 📔 My Blog
 <a href="https://www.notion.so/INTRODUCTION-d21fcecf9fb64ec8a0aaa4dd7e1b70b1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>

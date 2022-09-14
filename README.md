@@ -17,11 +17,11 @@
 ## 🏆 My Activity
 * I am a third year Software-Engineering Student, at Korea Aerospace University (KAU). 🏫
 * See more detailed information about me on the link below 👇
-	* <b>Linkedin page (english)</b>: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US)](https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US)
+	* <b>Linkedin page (english)</b> : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US)](https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/?locale=en_US)
 	* <b>Linkedin page (korean)</b> : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/)](https://www.linkedin.com/in/%EC%84%9C%EC%95%84-%EB%82%A8-024962228/)
 
 ### 📔 My Blog
-<a href="https://nsa901.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory Blog-181717?style=flag-square&logo=&logoColor=white"/></a>
+<a href="https://nsa901.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/📝 Tistory-181717?style=flag-square&logo=&logoColor=white"/></a>
 <a href="https://www.notion.so/INTRODUCTION-d21fcecf9fb64ec8a0aaa4dd7e1b70b1" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flag-square&logo=notion&logoColor=white"/></a>
 
 <!-- <a href="https://seo-a-nam.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flag-square&logo=github&logoColor=white"/></a> -->

@@ -11,7 +11,7 @@
 
 <a target=""><img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=007396"/></a>
 <a target=""><img src="https://img.shields.io/badge/Html-white?style=flat-square&logo=html5&logoColor=f06529"/></a>
-<a target=""><img src="https://img.shields.io/badge/oracle21c-white?style=flat-square&logo=oracle&logoColor=f80000"/></a>
+<a target=""><img src="https://img.shields.io/badge/Oracle21c-white?style=flat-square&logo=oracle&logoColor=f80000"/></a>
 <a target=""><img src="https://img.shields.io/badge/VMBox-white?style=flat-square&logo=virtualbox&logoColor=black"/></a>
 <a target=""><img src="https://img.shields.io/badge/debian-white?style=flat-square&logo=debian&logoColor=d70a53"/></a>
 

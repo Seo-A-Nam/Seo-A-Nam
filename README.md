@@ -20,6 +20,7 @@
 ## 👍 I am interested in...
 * Blockchain
 * Cryptocurrency
+* Web 3.0
 * Open-source project contribution
 * Database & DBMS
 * Automation

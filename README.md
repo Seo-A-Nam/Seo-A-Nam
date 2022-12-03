@@ -18,15 +18,12 @@
 ----
 
 ## 👍 I am interested in...
-* Blockchain
-* Cryptocurrency
-* Web 3.0
+* Web Development
+* Web 3
 * Open-source project contribution
-* Database & DBMS
+* Architecture of technology
 * Automation
-* System optimization
-* Network
-* Web development
+* System Optimization
 
 ----
 

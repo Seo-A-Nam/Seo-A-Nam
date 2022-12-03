@@ -18,6 +18,7 @@
 ----
 
 ## 👍 I am interested in...
+* Project Planning
 * Web Development
 * Web 3
 * Open-source project contribution
